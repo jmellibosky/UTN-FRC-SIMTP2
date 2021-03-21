@@ -1,0 +1,9 @@
+C:\Users\musi\source\repos\SimulacionTP2\SimulacionTP2\bin\Debug\SimulacionTP2.exe.config
+C:\Users\musi\source\repos\SimulacionTP2\SimulacionTP2\bin\Debug\SimulacionTP2.exe
+C:\Users\musi\source\repos\SimulacionTP2\SimulacionTP2\bin\Debug\SimulacionTP2.pdb
+C:\Users\musi\source\repos\SimulacionTP2\SimulacionTP2\obj\Debug\SimulacionTP2.csprojAssemblyReference.cache
+C:\Users\musi\source\repos\SimulacionTP2\SimulacionTP2\obj\Debug\SimulacionTP2.Form1.resources
+C:\Users\musi\source\repos\SimulacionTP2\SimulacionTP2\obj\Debug\SimulacionTP2.Properties.Resources.resources
+C:\Users\musi\source\repos\SimulacionTP2\SimulacionTP2\obj\Debug\SimulacionTP2.csproj.GenerateResource.cache
+C:\Users\musi\source\repos\SimulacionTP2\SimulacionTP2\obj\Debug\SimulacionTP2.exe
+C:\Users\musi\source\repos\SimulacionTP2\SimulacionTP2\obj\Debug\SimulacionTP2.pdb
